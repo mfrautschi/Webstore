@@ -1,0 +1,54 @@
+body{
+    font-family: Gadugi;
+    color: orange;
+    background-color: fff;
+}
+
+li{
+    float: left;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li p{
+    text-align: center;
+}
+
+h2{
+    margin-left: 10px;
+}
+
+.item{
+    border: 10px solid orange;
+}
+
+.item:hover{
+    background-color: orange;
+    color: #fff;
+}
+
+.nav{
+    text-align: right;
+    font-weight: bold;
+    color: #000;
+}
+.nav p{
+    float: right;
+    text-align: right;
+}
+
+.ueberschrift1{
+    background-color:  #fff;
+    border: 10px solid orange;
+}
+
+#sitetitle{
+    text-align: center;
+    background-color: #fff;
+    border: 10px solid orange;
+}
+
