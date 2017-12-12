@@ -1,0 +1,9 @@
+gitignore
+  .vs
+  packages
+  bin
+  obj
+  iis
+  export
+  -$*
+  Thumbs.db
